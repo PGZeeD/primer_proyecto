@@ -9,3 +9,9 @@ Duis neque ante, egestas quis felis nec, mattis commodo nibh. Morbi egestas lect
 Cras efficitur, purus dictum ullamcorper aliquam, odio tortor vehicula velit, posuere dapibus velit magna ac diam. Curabitur vel libero magna. 
 Fusce at eros non mi fringilla imperdiet eget sed augue. Nunc ac sapien elementum, rhoncus odio nec, laoreet tellus. 
 In ac quam porta justo ultrices pretium eget eget purus. Etiam lacinia ut leo sit amet venenatis. Quisque at pretium dolor.
+
+
+git status
+git add NOMBREDELARCHIVO.LOQUESEA
+git commit -m "AQUI DESCRIBO QUE CAMBIO ESTOY REALIZANDO"
+git restore --staged nombredelarchivo (volveratras con una accion sobre ese archivo)
