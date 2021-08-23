@@ -15,3 +15,9 @@ git status
 git add NOMBREDELARCHIVO.LOQUESEA
 git commit -m "AQUI DESCRIBO QUE CAMBIO ESTOY REALIZANDO"
 git restore --staged nombredelarchivo (volveratras con una accion sobre ese archivo)
+ver llave ssh publica : 
+en consola :
+cd
+cat .ssh/rsa_id.pub
+
+
