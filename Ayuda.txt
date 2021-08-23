@@ -22,6 +22,8 @@ actualizar repositorio en github:
 $ git push -u origin master
 verificar la rama :
 $ git remote -v
+ver ramificaciones historial de modificaciones etc:
+$ gitk ver
 
 
 
