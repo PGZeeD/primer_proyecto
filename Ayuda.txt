@@ -11,13 +11,17 @@ Fusce at eros non mi fringilla imperdiet eget sed augue. Nunc ac sapien elementu
 In ac quam porta justo ultrices pretium eget eget purus. Etiam lacinia ut leo sit amet venenatis. Quisque at pretium dolor.
 
 
-git status
-git add NOMBREDELARCHIVO.LOQUESEA
-git commit -m "AQUI DESCRIBO QUE CAMBIO ESTOY REALIZANDO"
-git restore --staged nombredelarchivo (volveratras con una accion sobre ese archivo)
+$ git status
+$ git add NOMBREDELARCHIVO.LOQUESEA
+$ git commit -m "AQUI DESCRIBO QUE CAMBIO ESTOY REALIZANDO"
+$ git restore --staged nombredelarchivo (volveratras con una accion sobre ese archivo)
 ver llave ssh publica : 
-en consola :
-cd
-cat .ssh/rsa_id.pub
+$ cd
+$ cat .ssh/rsa_id.pub
+actualizar repositorio en github:
+$ git push -u origin master
+verificar la rama :
+$ git remote -v
+
 
 
